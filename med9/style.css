@@ -1,0 +1,25 @@
+h1{
+	border:30px double red ;
+	background-color: lightgreen;
+	font-size: 70px;
+	color: red;
+	text-align: center;
+}
+
+
+
+
+body{
+	background-color:green;
+}
+
+img{
+
+	margin:20px ;
+	width: 300px;
+	height: 300px;
+	float: center;
+	border: 20px double red ;
+}
+	
+
