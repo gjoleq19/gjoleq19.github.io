@@ -1,0 +1,37 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Comforter&family=Dongle:wght@300&family=Slabo+27px&display=swap');
+
+
+
+
+h1 {
+	background-color: lightpink;
+	font-size: 70px;
+	padding: 50px;
+	text-align: center;
+	font-family: "anada";
+}
+
+h2{
+	background-color: lightgreen;
+    padding: 30px;
+    font-size: 50px;
+    text-align: right;
+    letter-spacing: 5px;
+    font-family: "comforter";
+}
+p{
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: justify;
+	padding: 30px;
+	font-family: "dongle";
+	column-count: 3;
+}
+body{
+
+background: rgb(9,121,46);
+background: linear-gradient(90deg, rgba(9,121,46,1) 13%, rgba(5,162,142,1) 46%, rgba(0,212,255,1) 85%);
+
+}
