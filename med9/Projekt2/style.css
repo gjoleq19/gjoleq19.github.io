@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Comforter&family=Dancing+Script&family=Dongle:wght@300&family=Raleway:wght@100&family=Redressed&family=Shizuru&family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Comforter&family=Dongle:wght@300&family=Raleway:wght@100&family=Redressed&family=Shizuru&family=Slabo+27px&display=swap');
+
+
+h1{
+	text-align: center;
+	font-family: "Raleway";
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h2{
+	text-align: center;
+	font-family: "Dancing Script";
+}
+.a{
+	border: 3px dotted;
+	font-size: 20px;
+	column-count: 3;
+	font-family: Raleway;
+	color: black;
+	margin: 30px;
+	height: 200px;
+  }
+#b{
+	border: 3px dotted;
+	background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 11%, rgba(22,137,181,1) 59%, rgba(9,74,166,1) 100%);
+    display: flex;
+    justify-content: center;
+	align-items: center;
+	margin: 30px;
+	padding: 75px;
+
+
+}
+
+#b p{ 
+background-color: white;
+padding: 10px;
+
+}
+
+
+p{
+	background-color: white;
+}
+.c{
+	border: 3px dotted;
+	background-color: lightblue;
+    display: flex;
+    margin: 30px;
+    justify-content: space-between;
+	align-items: stretch;
+	height: 200px;
+
+
+}
+#d{
+	border: 3px dotted;
+	background-color: blue;
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+	align-items: center;
+    height: 200px;
+
+}
+
+img{
+	height: 100px;
+	width: 100;
+}
+
+footer{
+	background-color:darkblue ;
+	display: flex;
+    margin: 30px;
+    justify-content: space-evenly;
+	align-items: flex-end;
+    border: 3px dotted;
+    height: 200px;
+}
+
+footer p{
+	height: 40px;
+	font-size: 15px;
+
+}
